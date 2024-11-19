@@ -6,7 +6,7 @@ This dataset comprises original images captured with Kinect V2 and Realsense D45
 <img src="Exhibit/5_aligned_color.png" width="24%"><img src="Exhibit/2.png" width="24%"><img src="Exhibit/2537_aligned_color.png" width="24%"><img src="Exhibit/2537.png" width="24%">
 # Annotation
 Our annotation tool used is adapted from the [grasp-rectangle-labelling tool](https://github.com/ulaval-damas/grasp-rectangle-labelling). Our tool can simultaneously annotate the standard annotations of the Cornell dataset and our customized assisted annotations.
-![label](https://github.com/user-attachments/assets/ea7cedd6-65da-4d47-b554-90dda2a3189c)
+<img src="Exhibit/label.gif" width="50%">
 # Attention!
 Since our papers related to this dataset are currently under peer review, we are temporarily releasing only a subset of the dataset.
 

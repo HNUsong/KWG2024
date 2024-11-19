@@ -9,6 +9,7 @@ Our annotation tool used is adapted from the [grasp-rectangle-labelling tool](ht
 <img src="Exhibit/label.gif" width="100%">
 # Attention!
 Since our papers related to this dataset are currently under peer review, we are temporarily releasing only a subset of the dataset.
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a

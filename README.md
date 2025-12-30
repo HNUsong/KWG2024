@@ -1,6 +1,6 @@
 # KWG2024
 A 2D grasping RGB-D dataset for kitchen waste sorting scenarios, as described in the following paper:
-<!-- 
+
 **An Efficient Generative Intelligent Multi-Objective Grasping Model for Kitchen Waste Sorting**,  
 by Songyun Deng, Ruiyuan Pei, Li Zhou, Hai Qin, Wei Sun, and Qiaokang Liang,
 
@@ -18,7 +18,7 @@ If you want to use this dataset or wish to refer to the baseline results publish
   keywords={Grasping;Belts;Robots;Sorting;Annotations;Computational modeling;Accuracy;Planning;Robot kinematics;Object detection;Embedded AI;generative network;kitchen waste sorting;multiobject grasping;RGB-D dataset},
   doi={****}}
 ```
--->
+
 
 
 # Introduction

@@ -9,14 +9,15 @@ which is used to address the issue of excessive and incorrect grasps generated b
 If you want to use this dataset or wish to refer to the baseline results published in this paper, please use the following BibTeX entry:
 ```
 @ARTICLE{10945475,
-  author={******},
-  journal={IEEE Transactions on Instrumentation and Measurement}, 
-  title={******}, 
-  year={2025},
-  volume={***},
-  pages={****},
-  keywords={Grasping;Belts;Robots;Sorting;Annotations;Computational modeling;Accuracy;Planning;Robot kinematics;Object detection;Embedded AI;generative network;kitchen waste sorting;multiobject grasping;RGB-D dataset},
-  doi={****}}
+	author={Deng, Songyun and Pei, Ruiyuan and Zhou, Li and Qin, Hai and Sun, Wei and Liang, Qiaokang},
+	journal={IEEE Transactions on Instrumentation and Measurement}, 
+	title={An Efficient Generative Intelligent Multiobjective Grasping Model for Kitchen Waste Sorting}, 
+	year={2025},
+	volume={74},
+	number={},
+	pages={1-10},
+	keywords={Grasping;Belts;Robots;Sorting;Annotations;Computational modeling;Accuracy;Planning;Robot kinematics;Object detection;Embedded AI;generative network;kitchen waste sorting;multiobject grasping;RGB-D dataset},
+	doi={10.1109/TIM.2025.3555698}}
 ```
 
 
